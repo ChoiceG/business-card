@@ -1,0 +1,37 @@
+body {
+    margin: 50px;
+}
+
+.photo {
+    width: 150px;
+    position: relative;
+    left: 250px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin: 0 auto;
+    justify-content: space-between;
+    text-align: center;
+    background: #CDB4DB;
+    border: 5px outset #FFC8DD;
+    border-bottom: 20px ridge #bde0fe;
+    border-radius: 40px;
+    color: #2b2839;
+}
+
+.text {
+    position: relative;
+    right: 170px;
+    
+}
+
+.quote {
+    text-align: left;
+    font-size: 15px;
+    font-weight: lighter;
+    display: flex;
+    text-shadow: 1px 3px #FFC8DD;
+}
